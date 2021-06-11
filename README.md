@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [repository solution](https://github.com/EdisonPadilla/Single-price-grid-component.git)
-- Live Site URL: [live site github page](https://your-live-site-url.com)
+- Live Site URL: [live site github page](https://edisonpadilla.github.io/Single-price-grid-component/)
 
 ## My process
 
